@@ -15,7 +15,7 @@ import numpy as np
 # ============================================================
 # CONFIG — UPDATE THESE
 # ============================================================
-CENSUS_API_KEY = "51d73983cedbf457151cb48bd6e2230c5aa5fd14"  # Get from https://api.census.gov/data/key_signup.html
+CENSUS_API_KEY = "YOUR_CENSUS_API_KEY"  # Get from https://api.census.gov/data/key_signup.html
 CDC_CSV_PATH = "PLACES__Census_Tract_Data_(GIS_Friendly_Format),_2025_release_20260308.csv"
 OUTPUT_DIR = "outputs/"
 
